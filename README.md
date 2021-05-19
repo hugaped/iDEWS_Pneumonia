@@ -1,4 +1,4 @@
-Lagged association between climate variables and hospital ad-missions for pneumonia admissions in South Africa
+**Lagged association between climate variables and hospital ad-missions for pneumonia admissions in South Africa**
 
 Hugo Pedder, Thandi Kapwata, Guy Howard, Rajen N. Naidoo, Zamantimande Kunene, Richard W. Morris, Angela Mathee and Caradee Y. Wright
 
